@@ -1,5 +1,5 @@
 SOURCE_URL=https://github.com/kevinpapst/kimai2/archive/fix-migration.zip
-SOURCE_SUM=e386ab4e92b977e0b96d6d2fa06144b0c019897efde7d4bd7b8c41a804211b83
+SOURCE_SUM=714a1862fb3763caa95219997b9022b0b7106cb95d33d65d17ff0c74df5f29ba
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
