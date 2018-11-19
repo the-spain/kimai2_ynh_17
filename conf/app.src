@@ -1,6 +1,6 @@
-SOURCE_URL=https://github.com/kevinpapst/kimai2/archive/0.6.tar.gz
-SOURCE_SUM=68165aefeee798f6812d2a451235d937977b0434ea17b2a8624a463eec66e7c2
+SOURCE_URL=https://github.com/kevinpapst/kimai2/archive/fix-migration.zip
+SOURCE_SUM=e386ab4e92b977e0b96d6d2fa06144b0c019897efde7d4bd7b8c41a804211b83
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
+SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
 SOURCE_FILENAME=
