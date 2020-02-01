@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/kevinpapst/kimai2/archive/0.8.1.tar.gz
-SOURCE_SUM=6f156bf510f9fec540e49128392dbd2f9f569a2de6d9aed7174e4044bde39b2b
+SOURCE_URL=https://github.com/kevinpapst/kimai2/archive/1.7.tar.gz
+SOURCE_SUM=faca54e4e235fe4eaa7fc73f03fb73aebd309e649f651772ed373bbc5ca66779
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
